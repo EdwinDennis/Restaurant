@@ -16,12 +16,7 @@ a [Sails](http://sailsjs.org) application
             "estado":"oaxaca"},
 "descripcion":"comida rapida espciales de mactrios",
 "telefonos":{"local":"5123482","celular":"9512361238"},
-"horaAtencion":{"horaApertura":"8:00 am","horaCierre":"7:00 pm"},
-"servicioDomicilio":"false",
-"compraMinima":"50",
-"costoEnvio":"10",
-"fotos":"ninguna",
-"opiniones":{"opinion1":"Mal servicio","opinion2":"Me gustan los hamburguezas"},
+"horaAtencion":{"horaApertura":"8:00 am","horaCierre":"7:00 pm"}
 "coordenadas":{"latitud":"16.907956","longitud":"-96.7239559"}
 }
 ```
